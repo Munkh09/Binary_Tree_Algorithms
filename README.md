@@ -1,0 +1,4 @@
+- This project contains algorithms that do operations using traversals on Binary Trees.
+- balanced() algorithm checks if the tree is balanced or not.
+- floor(int x) algorithm returns the rightmost node with a key less than or equal to the input (x).
+- keysAtDepth(int d) algorithm returns likend list that contains the keys at a given depth (d). 
